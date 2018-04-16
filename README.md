@@ -19,6 +19,7 @@ This library interfaces with the web services of various shipping carriers. The 
 * [Stamps](http://www.stamps.com)
 * [Kunaki](http://www.kunaki.com)
 * [Australia Post](http://auspost.com.au/)
+* [Correios](http://www.correios.com.br/correios/english)
 
 
 ## Versions

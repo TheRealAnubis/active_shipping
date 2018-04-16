@@ -1,5 +1,8 @@
 # ActiveShipping CHANGELOG
 
+### v2.1.2
+- Add support for Rails 5.2
+
 ### v2.1.1
 - Update README to clarify Shopify's involvement moving forward with v2.x
 
